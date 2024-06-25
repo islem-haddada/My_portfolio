@@ -1,1 +1,21 @@
-
+:root{
+    --color-primary: #8750f7;
+    --color-secondary: rgba(28,20,5,0.773);
+    --color-text: #fff;
+    --color-muted: #9fa5a5;
+    --color-success: #33c648;
+    --color-white: #ffffff;
+    --color-ui-1: rgb(1,1,1);
+    --color-ui-2: rgb(24,25,25);
+    --color-off-white: #f6f3fc;
+    --transition:all 400ms ease;
+    --gray-border: solid 0.5px lightgray;
+    --border-raduis-1:4px;
+    --border-raduis-2:0.8rem;
+    --border-raduis-3:1.2rem;
+    --border-raduis-4:2rem;
+    --border-raduis-5:51px;
+    --gradient-1:linear-gradient( 260deg, var(--color-secondary) 0%, var(--color-primary) 100%);
+    --card-rgb: 180, 185, 188;
+    --card-border-rgb: 131, 134 , 135;
+}
