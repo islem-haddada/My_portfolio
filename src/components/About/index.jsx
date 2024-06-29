@@ -1,11 +1,12 @@
 import React from 'react'
-
-const Header = () => {
+import "./About.css"
+ 
+const About = () => {
     return (
         <div>
-        
+
         </div>
     )
 }
 
-export default Header
+export default About
