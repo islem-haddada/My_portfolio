@@ -1,10 +1,11 @@
 import Navbar from "./components/Navbar"
 import Header from "./components/Header"
 import About from "./components/About"
-import Services from "./components/Services";
-import Skils from "./components/Skils";
-import Projects from "./components/Projects";
-import Testimonial from "./components/Testimonial";
+import Services from "./components/Services"
+import Skils from "./components/Skils"
+import Projects from "./components/Projects"
+import Testimonial from "./components/Testimonial"
+import Contact from "./components/Contact"
 
 function App() {
   return (
@@ -16,6 +17,7 @@ function App() {
      <Skils/>
      <Projects/>
      <Testimonial/>
+     <Contact/>
     </>
   );
 }
