@@ -6,6 +6,7 @@ import Skils from "./components/Skils"
 import Projects from "./components/Projects"
 import Testimonial from "./components/Testimonial"
 import Contact from "./components/Contact"
+import Footer from "./components/Footer
 
 function App() {
   return (
@@ -18,6 +19,7 @@ function App() {
      <Projects/>
      <Testimonial/>
      <Contact/>
+     <Footer/>
     </>
   );
 }
